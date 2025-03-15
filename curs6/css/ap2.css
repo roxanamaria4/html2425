@@ -1,0 +1,55 @@
+#container{
+    width: 100%;
+    max-width: 800px;
+    min-width: 300px ;
+    margin: auto;
+}
+#container h1{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Grande', Geneva, Verdana, sans-serif;
+   border-bottom: 2px solid;
+   color: rgb(53, 35, 131);
+   padding-bottom:10px ;
+   padding-top:20px ;
+   padding-left:10ox ;
+   padding-right:10px ;
+   text-align: center;
+
+
+}
+#myform{
+    background-color: darkseagreen;
+    padding: 25px;
+    text-align: center;
+}
+#myform div{
+    margin:15px 0 ;
+}
+#myform label{
+    display: inline-block;
+    width: 150px;
+    font-size: 20px;
+    text-align: left;
+}
+#myform input{
+    display: inline-block;
+    width: 200px;
+    padding: 15px;
+}
+#check label{
+    display: inline-block;
+    width: 300px;
+}
+#check input{
+    display: inline-block;
+    width: 20px;
+    padding: 5px;
+}
+#sub{
+    background-color: rgb(53, 35, 131);
+    color: #ffffff;
+    font-size:20px ;
+    border: 1px solid rgb(53, 35, 131);
+    border-radius:25px ;
+
+}

@@ -18,7 +18,7 @@
 #tabel1 tr:nth-child(2n+1){
     background-color: darkblue;
 }
-#tabel1>tr{
+#tabel1 tr{
     background-color: darkslategray;
     color: #ffffff;
     

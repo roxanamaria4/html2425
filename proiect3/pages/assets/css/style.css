@@ -1,0 +1,51 @@
+#img{
+    width: 60%;
+    height:500px ;
+}
+#im{
+    width: 30%;
+    height: 700px;
+}
+#imga{
+    width: 20%;
+    height: 550px;
+}
+#tabel1{
+    border: 1px; color: rgb(94, 45, 52);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse ;
+}
+#tabel1 tr td, #tabel1 tr th{
+    border: 1px blue double;
+    padding: 0.1%;
+}
+#tabel1 tr th{
+    color: red;
+    background-color: rgb(51, 35, 35);
+}
+#start1 nav {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: olive;
+    padding: 15px;
+    border-radius: 5px;
+}
+.container{
+ display: flex;
+ max-width: 900px;
+ margin: 200px auto;
+ background: wheat;
+}
+nav ul li{
+    display: inline;
+    padding: 20px 25px;
+    list-style: none;
+}
+nav ul li:hover,nav ul li.active{
+    background-color: rgb(6, 29, 29);
+}
+nav ul li a{
+    font-size: 20px;
+    color: rgb(189, 99, 99);
+    text-decoration: none;
+}
